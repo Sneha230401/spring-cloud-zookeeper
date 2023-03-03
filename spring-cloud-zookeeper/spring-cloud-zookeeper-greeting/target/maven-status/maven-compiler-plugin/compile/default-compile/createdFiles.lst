@@ -1,0 +1,4 @@
+com/baeldung/spring/cloud/greeting/HelloWorldClient.class
+com/baeldung/spring/cloud/greeting/GreetingApplication.class
+com/baeldung/spring/cloud/greeting/HelloWorldClient$TheClient.class
+com/baeldung/spring/cloud/greeting/GreetingController.class
